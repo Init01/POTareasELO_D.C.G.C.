@@ -36,3 +36,9 @@ correspondiente a los codigos:
     make run y luego ingresar los datos pedidos.
 3.- Si desea borrar los archivos .class, solo debe tipear
     make clean.
+
+Al momento de ingresar los datos solicitados por el programa, 
+si desea ingresar un numero decimal debe separarlo con , (coma)
+Ej: Si desea ingresar 0.01, debe colocar 0,01.
+
+
