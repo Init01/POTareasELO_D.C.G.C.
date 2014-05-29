@@ -6,15 +6,22 @@ graficos los cuales interaccionarán con el funcionamiento del dispositivo mouse
 
 
 Etapa4:
-- makefile
-- Ball.java
-- MyWorld.java
-- PhysicsElement.java
-- PhysicsLab.java
-- Spring.java
-- FixedHook.java
-- SpringAttachable.java
-
+    makefile
+    Ball.java
+	BallView.java
+	FixedHook.java
+	FixedHookView.java
+	KeyListener.java
+	LabMenuListener.java
+	MouseListener.java
+	MyWorld.java
+	MyWorldView.java
+	PhysicsElement.java
+	PhysicsLab.java
+	Simulateable.java
+	Spring.java
+	SpringAttachable.java
+	SpringView.java
 
 Para compilar y ejecutar los archivos de la etapa 4 se deben 
 seguir los siguientes pasos, estando situados en la carpeta
